@@ -1,0 +1,6 @@
+10/18/2023 4:47:51 PM
+SaveChanges
+------------------------------
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at HBL_MLDV_API.App_Start.ADOConnection.SaveChanges(String schema, Object Model, Boolean is_msg_create) in E:\Jahanzaib\Projects\Gits_Projects\Gits_Projects\HBL_MLDV\HBL_MLDV_API\HBL_MLDV_API\App_Start\ADOConnection.cs:line 199
+------------------------------

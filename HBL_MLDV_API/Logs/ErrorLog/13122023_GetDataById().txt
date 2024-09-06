@@ -1,0 +1,90 @@
+12/13/2023 1:26:09 PM
+GetDataById
+------------------------------
+System.ArgumentException: Object of type 'System.String' cannot be converted to type 'System.Single'.
+   at System.RuntimeType.TryChangeType(Object value, Binder binder, CultureInfo culture, Boolean needsSpecialCast)
+   at System.RuntimeType.CheckValue(Object value, Binder binder, CultureInfo culture, BindingFlags invokeAttr)
+   at System.Reflection.MethodBase.CheckArguments(Object[] parameters, Binder binder, BindingFlags invokeAttr, CultureInfo culture, Signature sig)
+   at System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.SetValue(Object obj, Object value, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.SetValue(Object obj, Object value, Object[] index)
+   at HBL_MLDV_API.Providers.DbContextHelper.GetItem[T](DataRow dr) in E:\Jahanzaib\Projects\Gits_Projects\Gits_Projects\HBL_MLDV\HBL_MLDV_API\HBL_MLDV_API\Providers\DbContextHelper.cs:line 187
+   at HBL_MLDV_API.Providers.DbContextHelper.ConvertDataTable[T](DataTable dt) in E:\Jahanzaib\Projects\Gits_Projects\Gits_Projects\HBL_MLDV\HBL_MLDV_API\HBL_MLDV_API\Providers\DbContextHelper.cs:line 170
+   at HBL_MLDV_API.Providers.Creator.ACHTransServices.GetDataById(Int32 mst_id) in E:\Jahanzaib\Projects\Gits_Projects\Gits_Projects\HBL_MLDV\HBL_MLDV_API\HBL_MLDV_API\Providers\Creator\ACHTransServices.cs:line 186
+------------------------------
+12/13/2023 1:26:51 PM
+GetDataById
+------------------------------
+System.ArgumentException: Object of type 'System.String' cannot be converted to type 'System.Single'.
+   at System.RuntimeType.TryChangeType(Object value, Binder binder, CultureInfo culture, Boolean needsSpecialCast)
+   at System.RuntimeType.CheckValue(Object value, Binder binder, CultureInfo culture, BindingFlags invokeAttr)
+   at System.Reflection.MethodBase.CheckArguments(Object[] parameters, Binder binder, BindingFlags invokeAttr, CultureInfo culture, Signature sig)
+   at System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.SetValue(Object obj, Object value, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.SetValue(Object obj, Object value, Object[] index)
+   at HBL_MLDV_API.Providers.DbContextHelper.GetItem[T](DataRow dr) in E:\Jahanzaib\Projects\Gits_Projects\Gits_Projects\HBL_MLDV\HBL_MLDV_API\HBL_MLDV_API\Providers\DbContextHelper.cs:line 187
+   at HBL_MLDV_API.Providers.DbContextHelper.ConvertDataTable[T](DataTable dt) in E:\Jahanzaib\Projects\Gits_Projects\Gits_Projects\HBL_MLDV\HBL_MLDV_API\HBL_MLDV_API\Providers\DbContextHelper.cs:line 170
+   at HBL_MLDV_API.Providers.Creator.ACHTransServices.GetDataById(Int32 mst_id) in E:\Jahanzaib\Projects\Gits_Projects\Gits_Projects\HBL_MLDV\HBL_MLDV_API\HBL_MLDV_API\Providers\Creator\ACHTransServices.cs:line 186
+------------------------------
+12/13/2023 1:28:06 PM
+GetDataById
+------------------------------
+System.ArgumentException: Object of type 'System.String' cannot be converted to type 'System.Single'.
+   at System.RuntimeType.TryChangeType(Object value, Binder binder, CultureInfo culture, Boolean needsSpecialCast)
+   at System.RuntimeType.CheckValue(Object value, Binder binder, CultureInfo culture, BindingFlags invokeAttr)
+   at System.Reflection.MethodBase.CheckArguments(Object[] parameters, Binder binder, BindingFlags invokeAttr, CultureInfo culture, Signature sig)
+   at System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.SetValue(Object obj, Object value, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.SetValue(Object obj, Object value, Object[] index)
+   at HBL_MLDV_API.Providers.DbContextHelper.GetItem[T](DataRow dr) in E:\Jahanzaib\Projects\Gits_Projects\Gits_Projects\HBL_MLDV\HBL_MLDV_API\HBL_MLDV_API\Providers\DbContextHelper.cs:line 187
+   at HBL_MLDV_API.Providers.DbContextHelper.ConvertDataTable[T](DataTable dt) in E:\Jahanzaib\Projects\Gits_Projects\Gits_Projects\HBL_MLDV\HBL_MLDV_API\HBL_MLDV_API\Providers\DbContextHelper.cs:line 170
+   at HBL_MLDV_API.Providers.Creator.ACHTransServices.GetDataById(Int32 mst_id) in E:\Jahanzaib\Projects\Gits_Projects\Gits_Projects\HBL_MLDV\HBL_MLDV_API\HBL_MLDV_API\Providers\Creator\ACHTransServices.cs:line 186
+------------------------------
+12/13/2023 1:29:14 PM
+GetDataById
+------------------------------
+System.ArgumentException: Object of type 'System.String' cannot be converted to type 'System.Single'.
+   at System.RuntimeType.TryChangeType(Object value, Binder binder, CultureInfo culture, Boolean needsSpecialCast)
+   at System.RuntimeType.CheckValue(Object value, Binder binder, CultureInfo culture, BindingFlags invokeAttr)
+   at System.Reflection.MethodBase.CheckArguments(Object[] parameters, Binder binder, BindingFlags invokeAttr, CultureInfo culture, Signature sig)
+   at System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.SetValue(Object obj, Object value, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.SetValue(Object obj, Object value, Object[] index)
+   at HBL_MLDV_API.Providers.DbContextHelper.GetItem[T](DataRow dr) in E:\Jahanzaib\Projects\Gits_Projects\Gits_Projects\HBL_MLDV\HBL_MLDV_API\HBL_MLDV_API\Providers\DbContextHelper.cs:line 187
+   at HBL_MLDV_API.Providers.DbContextHelper.ConvertDataTable[T](DataTable dt) in E:\Jahanzaib\Projects\Gits_Projects\Gits_Projects\HBL_MLDV\HBL_MLDV_API\HBL_MLDV_API\Providers\DbContextHelper.cs:line 170
+   at HBL_MLDV_API.Providers.Creator.ACHTransServices.GetDataById(Int32 mst_id) in E:\Jahanzaib\Projects\Gits_Projects\Gits_Projects\HBL_MLDV\HBL_MLDV_API\HBL_MLDV_API\Providers\Creator\ACHTransServices.cs:line 186
+------------------------------
+12/13/2023 2:25:29 PM
+GetDataById
+------------------------------
+System.ArgumentException: Object of type 'System.Decimal' cannot be converted to type 'System.String'.
+   at System.RuntimeType.TryChangeType(Object value, Binder binder, CultureInfo culture, Boolean needsSpecialCast)
+   at System.RuntimeType.CheckValue(Object value, Binder binder, CultureInfo culture, BindingFlags invokeAttr)
+   at System.Reflection.MethodBase.CheckArguments(Object[] parameters, Binder binder, BindingFlags invokeAttr, CultureInfo culture, Signature sig)
+   at System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.SetValue(Object obj, Object value, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.SetValue(Object obj, Object value, Object[] index)
+   at HBL_MLDV_API.Providers.DbContextHelper.GetItem[T](DataRow dr) in E:\Jahanzaib\Projects\Gits_Projects\Gits_Projects\HBL_MLDV\HBL_MLDV_API\HBL_MLDV_API\Providers\DbContextHelper.cs:line 187
+   at HBL_MLDV_API.Providers.DbContextHelper.ConvertDataTable[T](DataTable dt) in E:\Jahanzaib\Projects\Gits_Projects\Gits_Projects\HBL_MLDV\HBL_MLDV_API\HBL_MLDV_API\Providers\DbContextHelper.cs:line 170
+   at HBL_MLDV_API.Providers.Creator.ACHTransServices.GetDataById(Int32 mst_id) in E:\Jahanzaib\Projects\Gits_Projects\Gits_Projects\HBL_MLDV\HBL_MLDV_API\HBL_MLDV_API\Providers\Creator\ACHTransServices.cs:line 186
+------------------------------
+12/13/2023 2:30:53 PM
+GetDataById
+------------------------------
+System.ArgumentException: Object of type 'System.Decimal' cannot be converted to type 'System.String'.
+   at System.RuntimeType.TryChangeType(Object value, Binder binder, CultureInfo culture, Boolean needsSpecialCast)
+   at System.RuntimeType.CheckValue(Object value, Binder binder, CultureInfo culture, BindingFlags invokeAttr)
+   at System.Reflection.MethodBase.CheckArguments(Object[] parameters, Binder binder, BindingFlags invokeAttr, CultureInfo culture, Signature sig)
+   at System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.SetValue(Object obj, Object value, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.SetValue(Object obj, Object value, Object[] index)
+   at HBL_MLDV_API.Providers.DbContextHelper.GetItem[T](DataRow dr) in E:\Jahanzaib\Projects\Gits_Projects\Gits_Projects\HBL_MLDV\HBL_MLDV_API\HBL_MLDV_API\Providers\DbContextHelper.cs:line 187
+   at HBL_MLDV_API.Providers.DbContextHelper.ConvertDataTable[T](DataTable dt) in E:\Jahanzaib\Projects\Gits_Projects\Gits_Projects\HBL_MLDV\HBL_MLDV_API\HBL_MLDV_API\Providers\DbContextHelper.cs:line 170
+   at HBL_MLDV_API.Providers.Creator.ACHTransServices.GetDataById(Int32 mst_id) in E:\Jahanzaib\Projects\Gits_Projects\Gits_Projects\HBL_MLDV\HBL_MLDV_API\HBL_MLDV_API\Providers\Creator\ACHTransServices.cs:line 186
+------------------------------

@@ -1,0 +1,40 @@
+9/27/2023 12:08:11 PM
+Insertion
+------------------------------
+System.InvalidOperationException: This SqlTransaction has completed; it is no longer usable.
+   at System.Data.SqlClient.SqlTransaction.ZombieCheck()
+   at System.Data.SqlClient.SqlTransaction.Rollback()
+   at HBL_MLDV_API.App_Start.ADOConnection.Insertion(String schema, Object Model, Boolean is_msg_create) in E:\basim\MLDV\HBL_MLDV_API\HBL_MLDV_API\App_Start\ADOConnection.cs:line 383
+------------------------------
+9/27/2023 12:11:48 PM
+Insertion
+------------------------------
+System.InvalidOperationException: This SqlTransaction has completed; it is no longer usable.
+   at System.Data.SqlClient.SqlTransaction.ZombieCheck()
+   at System.Data.SqlClient.SqlTransaction.Rollback()
+   at HBL_MLDV_API.App_Start.ADOConnection.Insertion(String schema, Object Model, Boolean is_msg_create) in E:\basim\MLDV\HBL_MLDV_API\HBL_MLDV_API\App_Start\ADOConnection.cs:line 383
+------------------------------
+9/27/2023 2:56:06 PM
+Insertion
+------------------------------
+System.InvalidOperationException: This SqlTransaction has completed; it is no longer usable.
+   at System.Data.SqlClient.SqlTransaction.ZombieCheck()
+   at System.Data.SqlClient.SqlTransaction.Rollback()
+   at HBL_MLDV_API.App_Start.ADOConnection.Insertion(String schema, Object Model, Boolean is_msg_create) in E:\basim\MLDV\HBL_MLDV_API\HBL_MLDV_API\App_Start\ADOConnection.cs:line 383
+------------------------------
+9/27/2023 7:25:24 PM
+Insertion
+------------------------------
+System.InvalidOperationException: This SqlTransaction has completed; it is no longer usable.
+   at System.Data.SqlClient.SqlTransaction.ZombieCheck()
+   at System.Data.SqlClient.SqlTransaction.Rollback()
+   at HBL_MLDV_API.App_Start.ADOConnection.Insertion(String schema, Object Model, Boolean is_msg_create) in E:\basim\MLDV\HBL_MLDV_API\HBL_MLDV_API\App_Start\ADOConnection.cs:line 383
+------------------------------
+9/27/2023 7:32:15 PM
+Insertion
+------------------------------
+System.InvalidOperationException: This SqlTransaction has completed; it is no longer usable.
+   at System.Data.SqlClient.SqlTransaction.ZombieCheck()
+   at System.Data.SqlClient.SqlTransaction.Rollback()
+   at HBL_MLDV_API.App_Start.ADOConnection.Insertion(String schema, Object Model, Boolean is_msg_create) in E:\basim\MLDV\HBL_MLDV_API\HBL_MLDV_API\App_Start\ADOConnection.cs:line 383
+------------------------------

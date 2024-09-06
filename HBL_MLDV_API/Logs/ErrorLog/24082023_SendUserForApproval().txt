@@ -1,0 +1,30 @@
+8/24/2023 3:03:22 PM
+SendUserForApproval
+------------------------------
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at HBL_MLDV_API.Providers.UserManagement.UserService.SendUserForApproval(vu_users_aprv_vm model, Int32 br_code, Int32 user_sk)
+------------------------------
+8/24/2023 3:12:14 PM
+SendUserForApproval
+------------------------------
+System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   at HBL_MLDV_API.Providers.UserManagement.UserService.SendUserForApproval(vu_users_aprv_vm model, Int32 br_code, Int32 user_sk)
+------------------------------
+8/24/2023 3:12:36 PM
+SendUserForApproval
+------------------------------
+System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   at HBL_MLDV_API.Providers.UserManagement.UserService.SendUserForApproval(vu_users_aprv_vm model, Int32 br_code, Int32 user_sk)
+------------------------------
+8/24/2023 3:21:28 PM
+SendUserForApproval
+------------------------------
+System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   at HBL_MLDV_API.Providers.UserManagement.UserService.SendUserForApproval(vu_users_aprv_vm model, Int32 br_code, Int32 user_sk)
+------------------------------

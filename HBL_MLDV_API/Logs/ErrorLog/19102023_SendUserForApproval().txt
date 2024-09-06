@@ -1,0 +1,85 @@
+10/19/2023 11:42:48 AM
+SendUserForApprovalCraete
+------------------------------
+System.Data.SqlClient.SqlException (0x80131904): Invalid column name 'invalidDatetime'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at HBL_MLDV_API.App_Start.ADOConnection.doInsertUpdate(String str_sql, SqlConnection sqlconn) in E:\Jahanzaib\Projects\Gits_Projects\Gits_Projects\HBL_MLDV\HBL_MLDV_API\HBL_MLDV_API\App_Start\ADOConnection.cs:line 52
+   at Connection.doInsertUpdate(String str_sql, SqlConnection sqlconn) in E:\Jahanzaib\Projects\Gits_Projects\Gits_Projects\HBL_MLDV\HBL_MLDV_API\HBL_MLDV_API\App_Data\Connection.cs:line 56
+   at HBL_MLDV_API.Providers.UserManagement.UserService.SendUserForApprovalCraete(vu_users_aprv_vm model, Int32 br_code, Int32 user_sk) in E:\Jahanzaib\Projects\Gits_Projects\Gits_Projects\HBL_MLDV\HBL_MLDV_API\HBL_MLDV_API\Providers\UserManagement\UserService.cs:line 286
+ClientConnectionId:106dcdb3-e8e5-4e6c-a2cb-582eaea86b3b
+Error Number:207,State:1,Class:16
+------------------------------
+10/19/2023 11:45:02 AM
+SendUserForApprovalCraete
+------------------------------
+System.Data.SqlClient.SqlException (0x80131904): Invalid column name 'invalidDatetime'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at HBL_MLDV_API.App_Start.ADOConnection.doInsertUpdate(String str_sql, SqlConnection sqlconn) in E:\Jahanzaib\Projects\Gits_Projects\Gits_Projects\HBL_MLDV\HBL_MLDV_API\HBL_MLDV_API\App_Start\ADOConnection.cs:line 52
+   at Connection.doInsertUpdate(String str_sql, SqlConnection sqlconn) in E:\Jahanzaib\Projects\Gits_Projects\Gits_Projects\HBL_MLDV\HBL_MLDV_API\HBL_MLDV_API\App_Data\Connection.cs:line 56
+   at HBL_MLDV_API.Providers.UserManagement.UserService.SendUserForApprovalCraete(vu_users_aprv_vm model, Int32 br_code, Int32 user_sk) in E:\Jahanzaib\Projects\Gits_Projects\Gits_Projects\HBL_MLDV\HBL_MLDV_API\HBL_MLDV_API\Providers\UserManagement\UserService.cs:line 286
+ClientConnectionId:4c328291-ac9f-4947-aa7e-2df9caa22cc9
+Error Number:207,State:1,Class:16
+------------------------------
+10/19/2023 11:47:46 AM
+SendUserForApprovalCraete
+------------------------------
+System.Data.SqlClient.SqlException (0x80131904): Invalid column name 'invalidDatetime'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at HBL_MLDV_API.App_Start.ADOConnection.doInsertUpdate(String str_sql, SqlConnection sqlconn) in E:\Jahanzaib\Projects\Gits_Projects\Gits_Projects\HBL_MLDV\HBL_MLDV_API\HBL_MLDV_API\App_Start\ADOConnection.cs:line 52
+   at Connection.doInsertUpdate(String str_sql, SqlConnection sqlconn) in E:\Jahanzaib\Projects\Gits_Projects\Gits_Projects\HBL_MLDV\HBL_MLDV_API\HBL_MLDV_API\App_Data\Connection.cs:line 56
+   at HBL_MLDV_API.Providers.UserManagement.UserService.SendUserForApprovalCraete(vu_users_aprv_vm model, Int32 br_code, Int32 user_sk) in E:\Jahanzaib\Projects\Gits_Projects\Gits_Projects\HBL_MLDV\HBL_MLDV_API\HBL_MLDV_API\Providers\UserManagement\UserService.cs:line 286
+ClientConnectionId:e27f7b55-0bf6-4a43-b313-40f911341ecf
+Error Number:207,State:1,Class:16
+------------------------------
+10/19/2023 11:51:04 AM
+SendUserForApprovalCraete
+------------------------------
+System.Data.SqlClient.SqlException (0x80131904): Invalid column name 'invalidDatetime'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at HBL_MLDV_API.App_Start.ADOConnection.doInsertUpdate(String str_sql, SqlConnection sqlconn) in E:\Jahanzaib\Projects\Gits_Projects\Gits_Projects\HBL_MLDV\HBL_MLDV_API\HBL_MLDV_API\App_Start\ADOConnection.cs:line 52
+   at Connection.doInsertUpdate(String str_sql, SqlConnection sqlconn) in E:\Jahanzaib\Projects\Gits_Projects\Gits_Projects\HBL_MLDV\HBL_MLDV_API\HBL_MLDV_API\App_Data\Connection.cs:line 56
+   at HBL_MLDV_API.Providers.UserManagement.UserService.SendUserForApprovalCraete(vu_users_aprv_vm model, Int32 br_code, Int32 user_sk) in E:\Jahanzaib\Projects\Gits_Projects\Gits_Projects\HBL_MLDV\HBL_MLDV_API\HBL_MLDV_API\Providers\UserManagement\UserService.cs:line 286
+ClientConnectionId:b2fc419b-debb-484a-affc-df6952cc72c2
+Error Number:207,State:1,Class:16
+------------------------------
+10/19/2023 11:53:38 AM
+SendUserForApprovalCraete
+------------------------------
+System.Data.SqlClient.SqlException (0x80131904): Invalid column name 'invalidDatetime'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at HBL_MLDV_API.App_Start.ADOConnection.doInsertUpdate(String str_sql, SqlConnection sqlconn) in E:\Jahanzaib\Projects\Gits_Projects\Gits_Projects\HBL_MLDV\HBL_MLDV_API\HBL_MLDV_API\App_Start\ADOConnection.cs:line 52
+   at Connection.doInsertUpdate(String str_sql, SqlConnection sqlconn) in E:\Jahanzaib\Projects\Gits_Projects\Gits_Projects\HBL_MLDV\HBL_MLDV_API\HBL_MLDV_API\App_Data\Connection.cs:line 56
+   at HBL_MLDV_API.Providers.UserManagement.UserService.SendUserForApprovalCraete(vu_users_aprv_vm model, Int32 br_code, Int32 user_sk) in E:\Jahanzaib\Projects\Gits_Projects\Gits_Projects\HBL_MLDV\HBL_MLDV_API\HBL_MLDV_API\Providers\UserManagement\UserService.cs:line 286
+ClientConnectionId:d4589f56-58ec-4ec9-9b35-ad4bdec61e6e
+Error Number:207,State:1,Class:16
+------------------------------

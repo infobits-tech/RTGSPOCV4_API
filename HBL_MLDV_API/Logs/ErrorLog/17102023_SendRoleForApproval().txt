@@ -1,0 +1,14 @@
+10/17/2023 12:25:07 PM
+SendRoleForApprovalCreate
+------------------------------
+System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at HBL_MLDV_API.Providers.UserManagement.RoleService.SendRoleForApprovalCreate(vu_role_mst_aprv model, Int32 br_code, Int32 user_sk) in E:\Jahanzaib\Projects\Gits_Projects\Gits_Projects\HBL_MLDV\HBL_MLDV_API\HBL_MLDV_API\Providers\UserManagement\RoleService.cs:line 188
+------------------------------
+10/17/2023 12:49:29 PM
+SendRoleForApprovalCreate
+------------------------------
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at HBL_MLDV_API.Providers.UserManagement.RoleService.SendRoleForApprovalCreate(vu_role_mst_aprv model, Int32 br_code, Int32 user_sk) in E:\Jahanzaib\Projects\Gits_Projects\Gits_Projects\HBL_MLDV\HBL_MLDV_API\HBL_MLDV_API\Providers\UserManagement\RoleService.cs:line 188
+------------------------------

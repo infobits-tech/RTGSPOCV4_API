@@ -1,0 +1,6 @@
+12/20/2023 4:46:54 PM
+AuthenticateAndGenerateSessionDynmc
+------------------------------
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at HBL_MLDV_API.Controllers.AuthController.<AuthenticateAndGenerateSessionDynmc>d__3.MoveNext() in E:\Jahanzaib\Projects\Gits_Projects\Gits_Projects\HBL_MLDV\HBL_MLDV_API\HBL_MLDV_API\Controllers\AuthController.cs:line 142
+------------------------------

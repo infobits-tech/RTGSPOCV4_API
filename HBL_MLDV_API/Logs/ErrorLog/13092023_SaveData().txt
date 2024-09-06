@@ -1,0 +1,6 @@
+9/13/2023 12:07:21 PM
+SaveData
+------------------------------
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at HBL_MLDV_API.Controllers.MSG_STSController.SaveData(MSG_STS model, Int32 user_sk, Boolean is_ach)
+------------------------------

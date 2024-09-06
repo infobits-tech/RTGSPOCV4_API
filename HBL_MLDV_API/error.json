@@ -1,0 +1,42 @@
+{
+    "message": "Fail",
+    "error": {
+        "reqId": "RTGS_0000000001",
+        "message": "Duplicate Reference Number",
+        "code": "",
+        "type": "TargetSystemValidationError",
+        "developerMessage": {
+            "ACCOUNTTYPE": "",
+            "ACCOUNTTITLE": "",
+            "SC014_DECEASEDORLIQUIDATED": "",
+            "PRESTIGECUSTOMER": "",
+            "SC017_ACCOUNTSTATUSBLOCKED": "",
+            "SC020_ACCOUNTSTATUSINACTIVE": "",
+            "SC030_ACCOUNTCLOSING": "",
+            "SC011_ADVICEALLCREDIT": "",
+            "SC012_ADVICEALLDEBIT": "",
+            "SC066_ADVICESCAI66": "",
+            "SC096_ADVICESCAI96": "",
+            "ACCOUNTCURRENCY": "",
+            "ACCOUNTBRANCHCODE": "",
+            "HASCHECKBOOK": "",
+            "HASOVERDRAFT": "",
+            "HASJOINTACCOUNT": "",
+            "ISMINORACCOUNT": "",
+            "HASSIFACILITY": "",
+            "PRODUCTNAME": "",
+            "INFOMESSAGE": "Duplicate Reference Number",
+            "RESPONSECODE": "000001A",
+            "AVAILBLEBALANCE": "",
+            "FULLNAME": "",
+            "EMAIL1": "",
+            "EMAIL2": "",
+            "MOBILENO": "",
+            "BUSSTEL": "",
+            "TRADELICEXP": "",
+            "CUSTOMERADDRESS1": "",
+            "CUSTOMERADDRESS2": "",
+            "CUSTOMERADDRESS3": ""
+        }
+    }
+}

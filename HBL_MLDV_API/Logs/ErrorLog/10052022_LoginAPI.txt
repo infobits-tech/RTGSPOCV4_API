@@ -1,0 +1,75 @@
+5/10/2022 5:19:06 PM
+GenerateSession
+------------------------------
+System.NotImplementedException: The method or operation is not implemented.
+   at HBL_MLDV_API.App_Start.DbContextHelper.getDatabaseConnection() in E:\09-05-2022\HBL_MLDV_API_dapper\HBL_MLDV_API\App_Start\DbContextHelper.cs:line 84
+   at HBL_MLDV_API.Providers.EmployeeSecurity.<GenerateSession>d__18.MoveNext() in E:\09-05-2022\HBL_MLDV_API_dapper\HBL_MLDV_API\Providers\EmployeeSecurity.cs:line 362
+------------------------------
+5/10/2022 5:19:51 PM
+GenerateSession
+------------------------------
+System.NotImplementedException: The method or operation is not implemented.
+   at HBL_MLDV_API.App_Start.DbContextHelper.getDatabaseConnection() in E:\09-05-2022\HBL_MLDV_API_dapper\HBL_MLDV_API\App_Start\DbContextHelper.cs:line 84
+   at HBL_MLDV_API.Providers.EmployeeSecurity.<GenerateSession>d__18.MoveNext() in E:\09-05-2022\HBL_MLDV_API_dapper\HBL_MLDV_API\Providers\EmployeeSecurity.cs:line 362
+------------------------------
+5/10/2022 5:22:01 PM
+GenerateSession
+------------------------------
+System.NotImplementedException: The method or operation is not implemented.
+   at HBL_MLDV_API.App_Start.DbContextHelper.getDatabaseConnection() in E:\09-05-2022\HBL_MLDV_API_dapper\HBL_MLDV_API\App_Start\DbContextHelper.cs:line 84
+   at HBL_MLDV_API.Providers.EmployeeSecurity.<GenerateSession>d__18.MoveNext() in E:\09-05-2022\HBL_MLDV_API_dapper\HBL_MLDV_API\Providers\EmployeeSecurity.cs:line 362
+------------------------------
+5/10/2022 6:04:56 PM
+GenerateSession
+------------------------------
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at HBL_MLDV_API.Providers.EmployeeSecurity.<GenerateSession>d__18.MoveNext() in E:\09-05-2022\HBL_MLDV_API_dapper\HBL_MLDV_API\Providers\EmployeeSecurity.cs:line 403
+------------------------------
+5/10/2022 6:06:06 PM
+GenerateSession
+------------------------------
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at HBL_MLDV_API.Providers.EmployeeSecurity.<GenerateSession>d__18.MoveNext() in E:\09-05-2022\HBL_MLDV_API_dapper\HBL_MLDV_API\Providers\EmployeeSecurity.cs:line 403
+------------------------------
+5/10/2022 6:06:29 PM
+GenerateSession
+------------------------------
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at HBL_MLDV_API.Providers.EmployeeSecurity.<GenerateSession>d__18.MoveNext() in E:\09-05-2022\HBL_MLDV_API_dapper\HBL_MLDV_API\Providers\EmployeeSecurity.cs:line 403
+------------------------------
+5/10/2022 6:06:37 PM
+GenerateSession
+------------------------------
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at HBL_MLDV_API.Providers.EmployeeSecurity.<GenerateSession>d__18.MoveNext() in E:\09-05-2022\HBL_MLDV_API_dapper\HBL_MLDV_API\Providers\EmployeeSecurity.cs:line 403
+------------------------------
+5/10/2022 6:06:48 PM
+GenerateSession
+------------------------------
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at HBL_MLDV_API.Providers.EmployeeSecurity.<GenerateSession>d__18.MoveNext() in E:\09-05-2022\HBL_MLDV_API_dapper\HBL_MLDV_API\Providers\EmployeeSecurity.cs:line 403
+------------------------------
+5/10/2022 6:07:22 PM
+GenerateSession
+------------------------------
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at HBL_MLDV_API.Providers.EmployeeSecurity.<GenerateSession>d__18.MoveNext() in E:\09-05-2022\HBL_MLDV_API_dapper\HBL_MLDV_API\Providers\EmployeeSecurity.cs:line 403
+------------------------------
+5/10/2022 6:07:50 PM
+GenerateSession
+------------------------------
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at HBL_MLDV_API.Providers.EmployeeSecurity.<GenerateSession>d__18.MoveNext() in E:\09-05-2022\HBL_MLDV_API_dapper\HBL_MLDV_API\Providers\EmployeeSecurity.cs:line 403
+------------------------------
+5/10/2022 6:08:06 PM
+GenerateSession
+------------------------------
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at HBL_MLDV_API.Providers.EmployeeSecurity.<GenerateSession>d__18.MoveNext() in E:\09-05-2022\HBL_MLDV_API_dapper\HBL_MLDV_API\Providers\EmployeeSecurity.cs:line 403
+------------------------------
+5/10/2022 6:11:37 PM
+GenerateSession
+------------------------------
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at HBL_MLDV_API.Providers.EmployeeSecurity.<GenerateSession>d__18.MoveNext()
+------------------------------

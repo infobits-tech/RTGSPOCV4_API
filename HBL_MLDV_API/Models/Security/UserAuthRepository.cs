@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+
+namespace HBL_MLDV_API.Models.Security
+{
+    public class UserAuthRepository
+    {
+        public List<UserAccountDetails> UserAccountDetailObj { get; set; }
+        public UserAccountModel UserAccountObj { get; set; }
+        public int br_code { get; set; }
+        public string br_desc { get; set; }
+
+    }
+}

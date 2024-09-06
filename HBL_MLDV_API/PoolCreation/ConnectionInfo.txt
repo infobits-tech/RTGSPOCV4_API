@@ -1,0 +1,1 @@
+﻿Data Source=INFBDELL06\SQLEXPRESS01;Initial Catalog=HBL_MLDVS_TS;user id=sa;password=@29beta;Max Pool Size=50000

@@ -1,0 +1,42 @@
+{
+    "message": "Fail",
+    "error": {
+        "reqId": "20500056925",
+        "message": "2050007000467800 Invalid A/c No.",
+        "code": "",
+        "type": "TargetSystemValidationError",
+        "developerMessage": {
+            "ACCOUNTTYPE": "",
+            "ACCOUNTTITLE": "",
+            "SC014_DECEASEDORLIQUIDATED": "",
+            "PRESTIGECUSTOMER": "",
+            "SC017_ACCOUNTSTATUSBLOCKED": "",
+            "SC020_ACCOUNTSTATUSINACTIVE": "",
+            "SC030_ACCOUNTCLOSING": "",
+            "SC011_ADVICEALLCREDIT": "",
+            "SC012_ADVICEALLDEBIT": "",
+            "SC166_ADVICESCAIG6": "",
+            "SC096_ADVICESCAI96": "",
+            "ACCOUNTCURRENCY": "",
+            "ACCOUNTBRANCHCODE": "",
+            "HASCHECKBOOK": "",
+            "HASOVERDRAFT": "",
+            "HASJOINTACCOUNT": "",
+            "ISMINORACCOUNT": "",
+            "HASSIFACILITY": "",
+            "PRODUCTNAME": "",
+            "INFOMESSAGE": "2050007000467800 Invalid A/c No.",
+            "RESPONSECODE": "0000004",
+            "AVAILBLEBALANCE": "",
+            "FULLNAME": "",
+            "EMAIL1": "",
+            "EMAIL2": "",
+            "MOBILENO": "",
+            "BUSSTEL": "",
+            "TRADELICEXP": "",
+            "CUSTOMERADDRESS1": "",
+            "CUSTOMERADDRESS2": "",
+            "CUSTOMERADDRESS3": ""
+        }
+    }
+}

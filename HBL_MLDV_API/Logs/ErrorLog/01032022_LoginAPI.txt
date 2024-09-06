@@ -1,0 +1,21 @@
+3/1/2022 12:46:28 PM
+GenerateSession
+------------------------------
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at HBL_MLDV_API.Providers.EmployeeSecurity.GetToken(String userid) in E:\Naveel\GIT_PROJECTS\HBL_MLDV_API\HBL_MLDV_API\Providers\EmployeeSecurity.cs:line 275
+   at HBL_MLDV_API.Providers.EmployeeSecurity.<GenerateSession>d__16.MoveNext() in E:\Naveel\GIT_PROJECTS\HBL_MLDV_API\HBL_MLDV_API\Providers\EmployeeSecurity.cs:line 322
+------------------------------
+3/1/2022 12:46:51 PM
+GenerateSession
+------------------------------
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at HBL_MLDV_API.Providers.EmployeeSecurity.GetToken(String userid) in E:\Naveel\GIT_PROJECTS\HBL_MLDV_API\HBL_MLDV_API\Providers\EmployeeSecurity.cs:line 275
+   at HBL_MLDV_API.Providers.EmployeeSecurity.<GenerateSession>d__16.MoveNext() in E:\Naveel\GIT_PROJECTS\HBL_MLDV_API\HBL_MLDV_API\Providers\EmployeeSecurity.cs:line 322
+------------------------------
+3/1/2022 12:48:18 PM
+GenerateSession
+------------------------------
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at HBL_MLDV_API.Providers.EmployeeSecurity.GetToken(String userid) in E:\Naveel\GIT_PROJECTS\HBL_MLDV_API\HBL_MLDV_API\Providers\EmployeeSecurity.cs:line 275
+   at HBL_MLDV_API.Providers.EmployeeSecurity.<GenerateSession>d__16.MoveNext() in E:\Naveel\GIT_PROJECTS\HBL_MLDV_API\HBL_MLDV_API\Providers\EmployeeSecurity.cs:line 322
+------------------------------

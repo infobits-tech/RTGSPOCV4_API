@@ -1,0 +1,15 @@
+7/3/2023 7:01:25 PM
+GetData
+------------------------------
+System.ArgumentException: Object of type 'System.DateTime' cannot be converted to type 'System.String'.
+   at System.RuntimeType.TryChangeType(Object value, Binder binder, CultureInfo culture, Boolean needsSpecialCast)
+   at System.RuntimeType.CheckValue(Object value, Binder binder, CultureInfo culture, BindingFlags invokeAttr)
+   at System.Reflection.MethodBase.CheckArguments(Object[] parameters, Binder binder, BindingFlags invokeAttr, CultureInfo culture, Signature sig)
+   at System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.SetValue(Object obj, Object value, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.SetValue(Object obj, Object value, Object[] index)
+   at HBL_MLDV_API.Providers.DbContextHelper.GetItem[T](DataRow dr) in E:\Jahanzaib\Projects\Gits_Projects\Gits_Projects\HBL_MLDV\HBL_MLDV_API\HBL_MLDV_API\Providers\DbContextHelper.cs:line 186
+   at HBL_MLDV_API.Providers.DbContextHelper.ConvertDataTable[T](DataTable dt) in E:\Jahanzaib\Projects\Gits_Projects\Gits_Projects\HBL_MLDV\HBL_MLDV_API\HBL_MLDV_API\Providers\DbContextHelper.cs:line 169
+   at HBL_MLDV_API.Providers.Creator.inward_rejected_txn_Services.GetData(Int32 user_sk) in E:\Jahanzaib\Projects\Gits_Projects\Gits_Projects\HBL_MLDV\HBL_MLDV_API\HBL_MLDV_API\Providers\Creator\inward_rejected_txn_Services.cs:line 38
+------------------------------

@@ -1,0 +1,32 @@
+10/16/2023 12:18:33 PM
+SendRoleForApproval
+------------------------------
+System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at HBL_MLDV_API.Providers.UserManagement.RoleService.SendRoleForApproval(vu_role_mst_aprv model, Int32 br_code, Int32 user_sk) in E:\Jahanzaib\Projects\Gits_Projects\Gits_Projects\HBL_MLDV\HBL_MLDV_API\HBL_MLDV_API\Providers\UserManagement\RoleService.cs:line 161
+------------------------------
+10/16/2023 12:19:00 PM
+SendRoleForApproval
+------------------------------
+System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at HBL_MLDV_API.Providers.UserManagement.RoleService.SendRoleForApproval(vu_role_mst_aprv model, Int32 br_code, Int32 user_sk) in E:\Jahanzaib\Projects\Gits_Projects\Gits_Projects\HBL_MLDV\HBL_MLDV_API\HBL_MLDV_API\Providers\UserManagement\RoleService.cs:line 161
+------------------------------
+10/16/2023 12:19:22 PM
+SendRoleForApproval
+------------------------------
+System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at HBL_MLDV_API.Providers.UserManagement.RoleService.SendRoleForApproval(vu_role_mst_aprv model, Int32 br_code, Int32 user_sk) in E:\Jahanzaib\Projects\Gits_Projects\Gits_Projects\HBL_MLDV\HBL_MLDV_API\HBL_MLDV_API\Providers\UserManagement\RoleService.cs:line 161
+------------------------------
+10/16/2023 1:12:13 PM
+SendRoleForApproval
+------------------------------
+System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at HBL_MLDV_API.Providers.UserManagement.RoleService.SendRoleForApproval(vu_role_mst_aprv model, Int32 br_code, Int32 user_sk) in E:\Jahanzaib\Projects\Gits_Projects\Gits_Projects\HBL_MLDV\HBL_MLDV_API\HBL_MLDV_API\Providers\UserManagement\RoleService.cs:line 161
+------------------------------
